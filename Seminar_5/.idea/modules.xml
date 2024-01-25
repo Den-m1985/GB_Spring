@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Seminar_5.iml" filepath="$PROJECT_DIR$/.idea/Seminar_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam2Sem5/Java_Spring_Seminar_5-main/example_2_seminar_5.iml" filepath="$PROJECT_DIR$/Exam2Sem5/Java_Spring_Seminar_5-main/example_2_seminar_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam3Sem5/sem5_springdata_ex2/sem5_springdata_ex2.iml" filepath="$PROJECT_DIR$/Exam3Sem5/sem5_springdata_ex2/sem5_springdata_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam1Sem5/spring_data_exam/spring_data_exam.iml" filepath="$PROJECT_DIR$/Exam1Sem5/spring_data_exam/spring_data_exam.iml" />
+    </modules>
+  </component>
+</project>
