@@ -14,7 +14,7 @@
 	<name>SpringBoot3.2.0</name>
 	<description>Spring Boot 3.2.0</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
